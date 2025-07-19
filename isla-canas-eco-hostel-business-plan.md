@@ -252,6 +252,63 @@ This dual-tier approach creates several revenue advantages:
 - **Simple ROI**: 117.3% annually
 - **Payback Period**: ~0.85 years (10 months)
 
+### Occupancy Scenario Analysis
+
+To provide a comprehensive view of potential outcomes, we've analyzed three different occupancy scenarios:
+
+#### Scenario 1: Conservative (Low Occupancy)
+
+| Metric | Low Season (4 mo) | High Season (5 mo) | Turtle Season (3 mo) | Annual |
+|--------|-------------------|--------------------|-----------------------|--------|
+| **Bungalow Occupancy** | 15% | 40% | 60% | 36% |
+| **Hammock Occupancy** | 20% | 50% | 70% | 44% |
+| **Monthly Accommodation Revenue** | $1,206 | $4,824 | $8,964 | $4,536 |
+| **Additional Revenue Streams** | $362 | $1,447 | $2,689 | $1,361 |
+| **Total Monthly Revenue** | $1,568 | $6,271 | $11,653 | $5,897 |
+| **Annual Revenue** | $6,272 | $31,355 | $34,959 | **$72,586** |
+| **Operating Costs** | $7,000 | $20,000 | $18,000 | **$45,000** |
+| **Net Profit** | ($728) | $11,355 | $16,959 | **$27,586** |
+| **ROI** | | | | **48.4%** |
+| **Payback Period** | | | | **2.1 years** |
+
+#### Scenario 2: Realistic (Moderate Occupancy)
+
+| Metric | Low Season (4 mo) | High Season (5 mo) | Turtle Season (3 mo) | Annual |
+|--------|-------------------|--------------------|-----------------------|--------|
+| **Bungalow Occupancy** | 30% | 70% | 90% | 60% |
+| **Hammock Occupancy** | 40% | 80% | 95% | 70% |
+| **Monthly Accommodation Revenue** | $2,412 | $8,442 | $13,446 | $7,290 |
+| **Additional Revenue Streams** | $723 | $2,533 | $4,034 | $2,187 |
+| **Total Monthly Revenue** | $3,135 | $10,975 | $17,480 | $9,477 |
+| **Annual Revenue** | $12,540 | $54,875 | $52,440 | **$119,855** |
+| **Operating Costs** | $8,000 | $25,000 | $20,000 | **$53,000** |
+| **Net Profit** | $4,540 | $29,875 | $32,440 | **$66,855** |
+| **ROI** | | | | **117.3%** |
+| **Payback Period** | | | | **10 months** |
+
+#### Scenario 3: Optimistic (High Occupancy)
+
+| Metric | Low Season (4 mo) | High Season (5 mo) | Turtle Season (3 mo) | Annual |
+|--------|-------------------|--------------------|-----------------------|--------|
+| **Bungalow Occupancy** | 40% | 85% | 95% | 71% |
+| **Hammock Occupancy** | 50% | 90% | 98% | 77% |
+| **Monthly Accommodation Revenue** | $3,216 | $10,251 | $14,193 | $8,544 |
+| **Additional Revenue Streams** | $965 | $3,075 | $4,258 | $2,563 |
+| **Total Monthly Revenue** | $4,181 | $13,326 | $18,451 | $11,107 |
+| **Annual Revenue** | $16,724 | $66,630 | $55,353 | **$138,707** |
+| **Operating Costs** | $9,000 | $28,000 | $22,000 | **$59,000** |
+| **Net Profit** | $7,724 | $38,630 | $33,353 | **$79,707** |
+| **ROI** | | | | **139.8%** |
+| **Payback Period** | | | | **8.6 months** |
+
+#### Break-Even Analysis
+
+The minimum occupancy rates required to break even (covering all operating costs):
+- **Bungalows**: 18% average annual occupancy
+- **Hammocks**: 25% average annual occupancy
+
+Even in our most conservative scenario, the project remains profitable with a 48.4% ROI, demonstrating the financial resilience of the dual accommodation model.
+
 ---
 
 ## 📅 Implementation Timeline
