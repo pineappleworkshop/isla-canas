@@ -377,6 +377,74 @@ gantt
 
 ---
 
+## 🔍 Competitor Analysis
+
+### Primary Competitor: Hostal Pachamama
+
+**Property Overview:**
+- **Location**: Beachfront property in Isla Cañas, 2.3 km from downtown
+- **Accommodation Type**: Tent-style lodging with 11 bedrooms, 1 bathroom
+- **Capacity**: Accommodates 10 guests
+- **Accessibility**: Only accessible by boat
+- **Amenities**: Private beach area, sun terrace, garden, saltwater pool, kitchenettes in some rooms
+
+**Market Position:**
+- **Price Point**: US$25 per night (for 2 adults)
+- **Ratings**: 9.4/10 from 67 reviews on Booking.com, 4/5 on TripAdvisor (29 reviews)
+- **Ranking**: #2 of 3 specialty lodging options in Isla Cañas
+- **Popularity**: High visibility on booking platforms
+- **Brand Identity**: Uses turtle logo, suggesting conservation focus
+
+**Strengths:**
+- Established presence with positive reviews
+- Direct beachfront access
+- Exclusive feel due to boat-only access
+- Variety of amenities including saltwater pool
+
+**Weaknesses:**
+- Limited bathroom facilities (1 bathroom for 11 rooms)
+- Basic tent-style accommodation
+- Limited capacity (10 guests)
+- No clear differentiation between budget and premium options
+
+### Competitive Landscape in Isla Cañas
+
+Isla Cañas has extremely limited accommodation options:
+- Only 3 specialty lodging options identified on TripAdvisor
+- Hostal Pachamama appears to be the dominant player
+- Limited online presence for other options
+- No clear luxury or high-end options available
+
+### Regional Competition
+
+Nearby areas offer more accommodation options:
+- **Pedasi**: Multiple hotels and hostels, prices from $23/night
+- **Playa Venao**: Popular surfing destination with hostels from $11-44/night
+- **Alaya Panama**: Luxury dome hotel mentioned near Port of Sigua
+
+### Competitive Advantage Analysis
+
+Our Isla Cañas Eco Hostel will differentiate through:
+
+1. **Dual-Tier Accommodation Strategy**: Unlike Hostal Pachamama's uniform offering, our property will serve both premium (bungalows) and budget (hammocks) markets
+2. **Superior Capacity**: 28 guests vs. Pachamama's 10 guests
+3. **Better Facilities**: Multiple bathroom facilities vs. Pachamama's single bathroom
+4. **Authentic Structures**: Bamboo bungalows vs. tent-style accommodation
+5. **Comprehensive Eco-Focus**: Integrated sustainability features beyond just location
+6. **Scalable Business Model**: Phased development approach allows for adaptation to market demand
+
+### Market Opportunity
+
+Based on Hostal Pachamama's success indicators:
+- High rating (9.4/10) suggests strong guest satisfaction
+- 67 reviews indicates consistent bookings
+- "Only 1 left at this price" messaging suggests high occupancy
+- 216 views in a single day demonstrates significant demand
+
+These metrics validate our business case and suggest that Isla Cañas has unmet accommodation demand, particularly during turtle nesting season.
+
+---
+
 ## 📈 Growth Strategy (Years 2-5)
 
 ### Expansion Phases
