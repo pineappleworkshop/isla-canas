@@ -20,7 +20,7 @@
 - **Payback Period**: 23 months
 
 ### Accommodation Strategy
-- **Premium Tier**: 4 private bamboo bungalows ($35-80/night)
+- **Premium Tier**: 4 private bamboo bungalows ($25-50/night)
 - **Budget Tier**: 12-station hammock area ($8-18/night)
 - **Total Capacity**: 28 guests (16 in bungalows, 12 in hammocks)
 
@@ -222,9 +222,9 @@ This dual-tier approach creates several revenue advantages:
 
 | Accommodation | Capacity | Low Season (30% Occ.) | High Season (70% Occ.) | Turtle Season (90% Occ.) |
 |---------------|----------|----------------------|------------------------|--------------------------|
-| **Bungalows** | 4 units | $1,260-1,620 | $4,620-5,460 | $7,560-8,640 |
+| **Bungalows** | 4 units | $900-1,260 | $2,940-3,780 | $4,320-5,400 |
 | **Hammocks** | 12 spots | $864-1,080 | $3,024-3,780 | $4,860-5,832 |
-| **Total** | | $2,124-2,700 | $7,644-9,240 | $12,420-14,472 |
+| **Total** | | $1,764-2,340 | $5,964-7,560 | $9,180-11,232 |
 
 **💵 Additional Revenue Streams:**
 1. **Turtle Tour Partnerships** (15% of revenue)
@@ -277,14 +277,14 @@ To provide a comprehensive view of potential outcomes, we've analyzed three diff
 |--------|-------------------|--------------------|-----------------------|--------|
 | **Bungalow Occupancy** | 30% | 70% | 90% | 60% |
 | **Hammock Occupancy** | 40% | 80% | 95% | 70% |
-| **Monthly Accommodation Revenue** | $2,412 | $8,442 | $13,446 | $7,290 |
-| **Additional Revenue Streams** | $723 | $2,533 | $4,034 | $2,187 |
-| **Total Monthly Revenue** | $3,135 | $10,975 | $17,480 | $9,477 |
-| **Annual Revenue** | $12,540 | $54,875 | $52,440 | **$119,855** |
+| **Monthly Accommodation Revenue** | $2,074 | $6,100 | $8,300 | $5,225 |
+| **Additional Revenue Streams** | $622 | $1,830 | $2,490 | $1,568 |
+| **Total Monthly Revenue** | $2,696 | $7,930 | $10,790 | $6,793 |
+| **Annual Revenue** | $10,784 | $39,650 | $32,370 | **$82,804** |
 | **Operating Costs** | $8,000 | $25,000 | $20,000 | **$53,000** |
-| **Net Profit** | $4,540 | $29,875 | $32,440 | **$66,855** |
-| **ROI** | | | | **117.3%** |
-| **Payback Period** | | | | **10 months** |
+| **Net Profit** | $2,784 | $14,650 | $12,370 | **$29,804** |
+| **ROI** | | | | **52.3%** |
+| **Payback Period** | | | | **23 months** |
 
 #### Scenario 3: Optimistic (High Occupancy)
 
@@ -304,10 +304,10 @@ To provide a comprehensive view of potential outcomes, we've analyzed three diff
 #### Break-Even Analysis
 
 The minimum occupancy rates required to break even (covering all operating costs):
-- **Bungalows**: 18% average annual occupancy
-- **Hammocks**: 25% average annual occupancy
+- **Bungalows**: 25% average annual occupancy
+- **Hammocks**: 30% average annual occupancy
 
-Even in our most conservative scenario, the project remains profitable with a 48.4% ROI, demonstrating the financial resilience of the dual accommodation model.
+Even in our most conservative scenario, the project remains profitable with an 8.1% ROI, though with a longer payback period of 12.3 years. This demonstrates that while the lower pricing strategy reduces margins, the dual accommodation model still provides financial viability.
 
 ---
 
