@@ -14,10 +14,10 @@
 - **TOTAL INVESTMENT**: **$57,000**
 
 ### Key Financial Highlights
-- **Year 1 Revenue**: $119,855
-- **Year 1 Net Profit**: $66,855
-- **ROI**: 117.3% annually
-- **Payback Period**: 10 months
+- **Year 1 Revenue**: $82,804
+- **Year 1 Net Profit**: $29,804
+- **ROI**: 52.3% annually
+- **Payback Period**: 23 months
 
 ### Accommodation Strategy
 - **Premium Tier**: 4 private bamboo bungalows ($35-80/night)
@@ -191,9 +191,9 @@ Our eco hostel will feature two distinct accommodation types to maximize revenue
   - Mosquito nets and fans
   - Secure storage
 - **Pricing Strategy**:
-  - **Low Season**: $35-45/night per bungalow
-  - **High Season**: $55-65/night per bungalow
-  - **Turtle Season Premium**: $70-80/night (July-November)
+  - **Low Season**: $25-35/night per bungalow
+  - **High Season**: $35-45/night per bungalow
+  - **Turtle Season Premium**: $40-50/night (July-November)
 
 #### 2. Hammock Area (Budget Tier)
 - **Description**: Covered open-air structure with hammock sleeping stations
@@ -237,20 +237,20 @@ This dual-tier approach creates several revenue advantages:
 |--------|-------------------|--------------------|-----------------------|--------|
 | **Bungalow Occupancy** | 30% | 70% | 90% | 60% |
 | **Hammock Occupancy** | 40% | 80% | 95% | 70% |
-| **Avg. Bungalow Rate** | $40/night | $60/night | $75/night | $56.25/night |
+| **Avg. Bungalow Rate** | $30/night | $40/night | $45/night | $38.33/night |
 | **Avg. Hammock Rate** | $9/night | $13.50/night | $16.50/night | $12.75/night |
-| **Monthly Accommodation Revenue** | $2,412 | $8,442 | $13,446 | $7,290 |
-| **Additional Revenue Streams** | $723 | $2,533 | $4,034 | $2,187 |
-| **Total Monthly Revenue** | $3,135 | $10,975 | $17,480 | $9,477 |
-| **Annual Revenue** | $12,540 | $54,875 | $52,440 | **$119,855** |
+| **Monthly Accommodation Revenue** | $2,074 | $6,100 | $8,300 | $5,225 |
+| **Additional Revenue Streams** | $622 | $1,830 | $2,490 | $1,568 |
+| **Total Monthly Revenue** | $2,696 | $7,930 | $10,790 | $6,793 |
+| **Annual Revenue** | $10,784 | $39,650 | $32,370 | **$82,804** |
 | **Operating Costs** | $8,000 | $25,000 | $20,000 | **$53,000** |
-| **Net Profit** | $4,540 | $29,875 | $32,440 | **$66,855** |
+| **Net Profit** | $2,784 | $14,650 | $12,370 | **$29,804** |
 
 ### Return on Investment
 - **Total Investment**: $57,000
-- **Year 1 Net Profit**: $66,855
-- **Simple ROI**: 117.3% annually
-- **Payback Period**: ~0.85 years (10 months)
+- **Year 1 Net Profit**: $29,804
+- **Simple ROI**: 52.3% annually
+- **Payback Period**: ~1.9 years (23 months)
 
 ### Occupancy Scenario Analysis
 
@@ -262,14 +262,14 @@ To provide a comprehensive view of potential outcomes, we've analyzed three diff
 |--------|-------------------|--------------------|-----------------------|--------|
 | **Bungalow Occupancy** | 15% | 40% | 60% | 36% |
 | **Hammock Occupancy** | 20% | 50% | 70% | 44% |
-| **Monthly Accommodation Revenue** | $1,206 | $4,824 | $8,964 | $4,536 |
-| **Additional Revenue Streams** | $362 | $1,447 | $2,689 | $1,361 |
-| **Total Monthly Revenue** | $1,568 | $6,271 | $11,653 | $5,897 |
-| **Annual Revenue** | $6,272 | $31,355 | $34,959 | **$72,586** |
+| **Monthly Accommodation Revenue** | $1,037 | $3,488 | $5,533 | $3,100 |
+| **Additional Revenue Streams** | $311 | $1,046 | $1,660 | $930 |
+| **Total Monthly Revenue** | $1,348 | $4,534 | $7,193 | $4,030 |
+| **Annual Revenue** | $5,392 | $22,670 | $21,579 | **$49,641** |
 | **Operating Costs** | $7,000 | $20,000 | $18,000 | **$45,000** |
-| **Net Profit** | ($728) | $11,355 | $16,959 | **$27,586** |
-| **ROI** | | | | **48.4%** |
-| **Payback Period** | | | | **2.1 years** |
+| **Net Profit** | ($1,608) | $2,670 | $3,579 | **$4,641** |
+| **ROI** | | | | **8.1%** |
+| **Payback Period** | | | | **12.3 years** |
 
 #### Scenario 2: Realistic (Moderate Occupancy)
 
@@ -292,14 +292,14 @@ To provide a comprehensive view of potential outcomes, we've analyzed three diff
 |--------|-------------------|--------------------|-----------------------|--------|
 | **Bungalow Occupancy** | 40% | 85% | 95% | 71% |
 | **Hammock Occupancy** | 50% | 90% | 98% | 77% |
-| **Monthly Accommodation Revenue** | $3,216 | $10,251 | $14,193 | $8,544 |
-| **Additional Revenue Streams** | $965 | $3,075 | $4,258 | $2,563 |
-| **Total Monthly Revenue** | $4,181 | $13,326 | $18,451 | $11,107 |
-| **Annual Revenue** | $16,724 | $66,630 | $55,353 | **$138,707** |
+| **Monthly Accommodation Revenue** | $2,766 | $7,320 | $8,715 | $6,050 |
+| **Additional Revenue Streams** | $830 | $2,196 | $2,615 | $1,815 |
+| **Total Monthly Revenue** | $3,596 | $9,516 | $11,330 | $7,865 |
+| **Annual Revenue** | $14,384 | $47,580 | $33,990 | **$95,954** |
 | **Operating Costs** | $9,000 | $28,000 | $22,000 | **$59,000** |
-| **Net Profit** | $7,724 | $38,630 | $33,353 | **$79,707** |
-| **ROI** | | | | **139.8%** |
-| **Payback Period** | | | | **8.6 months** |
+| **Net Profit** | $5,384 | $19,580 | $11,990 | **$36,954** |
+| **ROI** | | | | **64.8%** |
+| **Payback Period** | | | | **18.5 months** |
 
 #### Break-Even Analysis
 
@@ -481,10 +481,10 @@ These metrics validate our business case and suggest that Isla Cañas has unmet 
 | Legal & Permits | $7,000 | 12.3% |
 | **TOTAL INVESTMENT** | **$57,000** | **100%** |
 
-**Expected Year 1 Revenue**: $119,855
-**Expected Year 1 Net Profit**: $66,855
-**Expected Year 1 ROI**: 117.3%
-**Break-even Timeline**: 10 months
+**Expected Year 1 Revenue**: $82,804
+**Expected Year 1 Net Profit**: $29,804
+**Expected Year 1 ROI**: 52.3%
+**Break-even Timeline**: 23 months
 **Market Position**: Unique dual-tier eco-tourism destination in protected wildlife area with both premium and budget accommodation options
 
 ---
